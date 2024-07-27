@@ -31,8 +31,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arthur-Negrao-Smith&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="175" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arthur-Negrao-Smith&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="175" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Arthur-Negrao-Smith&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arthur-Negrao-Smith&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arthur-Negrao-Smith&radius=16&theme=synthwave-84&area=true&order=5&bg_color=#141321&title_color=#8B2B59&color=#8B2B59&point=#A9FEF7&line=#F8D847&hide_border=true&custom_title=Contribuition%20Graph" height="300" alt="activity-graph graph"  />
 </div>
 
