@@ -1,4 +1,4 @@
-<h2 align="left">Hello! I'm just a brazilian computer science with questionable humor ✌🏽</h2>
+<h2 align="left">Hello! I'm just a brazilian computer science student a with questionable humor ✌🏽</h2>
 
 ###
 
